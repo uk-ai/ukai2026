@@ -1,0 +1,117 @@
+full_name: UK AI Conference 2026
+short_name: UKAI
+name: UK AI Conference 2026
+instance: Fourth
+#styling: Conference for
+# set to True if the programme is draft only.
+draft: False # set tbo True if the programme is draft only.
+hide_tentative: False
+venue: University of Nottingham
+venue_url:
+location: Nottingham, UK
+year: 2026
+month: October
+# dates to be set when venue finalised
+dates: []
+deadlines:
+  # Fill in the key dates as below.
+  - name: Submission deadline
+    text: To be announced
+    type: submission
+    important: True
+  - name: Notification of decisions
+    text: To be announced
+    type: decision
+    important: True
+  - name: Conference dates
+    text: To be announced
+    type: conference
+    important: True
+# Give the submission site details here.
+submission:
+  # Whether to show the submission site.
+  show: False
+  # The URL of the submission site.
+  url: ""
+  # The name of the submission site (e.g. Microsoft CMT Website)
+  name: Submission Form
+# List program chairs here.
+chairs:
+- type: Program Committee
+  people:
+  - family: Benford
+    given: Alistair
+    # Give their personal web page.
+    url: https://www.alistairbenford.com/
+    institute: University of Birmingham
+  - family: Büyükateş
+    given: Baturalp
+    # Give their personal web page.
+    url: https://bbuyukates.github.io/
+    institute: University of Birmingham
+  - family: Cabrera
+    given: Christian
+    # Give their personal web page.
+    url: https://cabrerac.github.io/
+    institute: University of Cambridge
+  - family: Kiden
+    given: Sarah
+    # Give their personal web page.
+    url: https://www.southampton.ac.uk/people/65cclz/doctor-sarah-kiden
+    institute: University of Southampton
+  - family: Salili-James
+    given: Arianna
+    # Give their personal web page.
+    url: https://uk.linkedin.com/in/arianna-salili
+    institute: Natural History Museum
+  - family: Zakka
+    given: Vincent
+    # Give their personal web page.
+    url: https://linkedin.com/in/vincentgbouna
+    institute: Aston University
+  - family: Zhou
+    given: Feng
+    # Give their personal web page.
+    url: https://www.nottingham.ac.uk/research/groups/cfam/meet-the-team/feng.zhou2
+    institute: University of Nottingham
+#- type: Alan Turing Institute
+#  people:
+#    - family: TBD
+#      given: TBD
+#      url:
+#      institute: The Alan Turing Institute
+#- type: UKRI/EPSRC
+#  people:
+#    - family: TBD
+#      given: TBD
+#      url:
+#      institute: EPSRC/UKRI
+- type: Local Chair
+  people:
+  - family: Benford
+    given: Steve
+    # Give their personal web page.
+    url: https://www.nottingham.ac.uk/computerscience/people/steve.benford
+    institute: University of Nottingham
+- type: Chairs
+  people:
+  - family: Lawrence
+    given: Neil D.
+    # Give their personal web page.
+    url: https://inverseprobability.com
+    institute: University of Cambridge
+previous_meeting:
+  name: The Third UK AI Conference 2025
+  url: https://uk-ai.org/ukai2025/
+
+map:
+  show: False
+  mapbox:
+    latitude: # latitude of map center
+    longitude: # longitude of map center
+    map_id: # mapbox id
+    access_token: # mapbox access token
+    zoom_level: 17
+    width: 100%
+    height: 500px
+

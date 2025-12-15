@@ -1,0 +1,46 @@
+# Site settings
+title: The Fourth UK AI Conference 2026
+email:
+description: > # this means to ignore newlines until "baseurl:"
+  This is the web page of the Fourth UK AI Conference 2026.
+baseurl: "/ukai2026" # the subpath of your site, e.g. /blog/
+url: "http://uk-ai.org" # the base hostname & protocol for your site
+github_username:  uk-ai
+timezone: Europe/London
+
+youtube:
+  height: 315
+  width: 560
+
+ghub:
+  edit: true
+  repository: ukai2026
+  repository: ukai2026
+
+# Build settings
+markdown: kramdown
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+
+remote_theme: uk-ai/jekyll-theme
+
+# Build settings
+future: true
+
+
+analytics:
+ google:
+   tracking_id: # Google tracking ID if applicable
+
+youtube:
+  height: 315
+  width: 560
+
+
+collections:
+  sessions:
+    output: true
+    permalink: "/:categories/:title.html"
+

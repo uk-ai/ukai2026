@@ -1,0 +1,11 @@
+<div class="event-card">
+  <div class="event-info">
+  <h3>{{ session.title }}</h3>
+  <p>{{ session.date | date: "%A, %B %-d" }}</p>
+  <p>{{ session.excerpt }}</p>
+  {% for talk in session.talks %}
+  {% include listtalk.html %}
+  {% endfor %}
+  <a class="session-link"  href="{{ session.url | prepend: site.baseurl }}">Details</a>
+  </div>
+</div>

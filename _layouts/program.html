@@ -1,0 +1,33 @@
+---
+layout: page
+title: Programme
+---
+
+
+{% assign schedule_pages = site.pages | where: 'layout', 'schedule' | sort: 'start_time' %}
+
+
+{% if site.data.conference.draft %}
+<h2>Draft Version</h2>
+{% endif %}
+
+{{ content }}
+
+<div class="project-list">
+  {% for tile in schedule_pages %}
+  <div class="card project-card">
+    <a href="{{ tile.url | relative_url }}">
+      {% if tile.image %}
+      <div class="project-image">
+      <img src="{{ tile.image }}" alt="{{ tile.title }}">
+      </div>
+      {% endif %}
+    <div class="project-info">
+      <h3>{{ tile.title }}</h3>
+      <p>{{ tile.start_time | date: "%b %-d, %Y"}}</p>
+      <p>{{ tile.description }}</p>
+    </div>
+    </a>    
+  </div>
+  {% endfor %}
+</div>
