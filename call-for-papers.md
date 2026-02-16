@@ -12,7 +12,7 @@ title: Call for Papers
   %}
 at {% if site.data.conference.venue_url %}<a href="{{ site.data.conference.venue_url }}" target="_blank">{% endif %}{{ site.data.conference.venue }}.
 {%
-    comment
+    endcomment
   %}
 The exact venue will be confirmed shortly. We are delighted to continue bringing together researchers from across the UK to advance the national research on Artificial Intelligence. The conference will feature full-paper talks and poster presentations. This year, we invite two types of submissions:</p>
 
