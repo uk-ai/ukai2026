@@ -3,7 +3,7 @@ layout: page
 title: Call for Papers
 ---
 
-The UK AI Community is pleased to announce the Fourth UK AI Conference, to be hosted by the University of Nottingham, from {{ site.data.conference.dates[0] }} to {{ site.data.conference.dates[1] }}. The exact venue and dates will be confirmed shortly. We are delighted to continue bringing together researchers from across the UK to advance the national research on Artificial Intelligence. The conference will feature full-paper talks and poster presentations. This year, we invite two types of submissions:
+The UK AI Community is pleased to announce the Fourth UK AI Conference, to be hosted by the University of Nottingham, from {{ site.data.conference.dates[0] }} to {{ site.data.conference.dates[1] }}. The exact venue will be confirmed shortly. We are delighted to continue bringing together researchers from across the UK to advance the national research on Artificial Intelligence. The conference will feature full-paper talks and poster presentations. This year, we invite two types of submissions:
 
 **Full Papers**: for researchers wishing to give a talk and have their work published in the Proceedings of Machine Learning Research (PMLR) as part of the conference proceedings.
 **Abstracts**: for poster presentations at the conference.

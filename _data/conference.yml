@@ -11,7 +11,6 @@ venue_url:
 location: Nottingham, UK
 year: 2026
 month: September
-# dates to be set when venue finalised
 dates: [2026-09-29, 2026-09-30]
 deadlines:
   # Fill in the key dates as below.

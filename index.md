@@ -17,7 +17,7 @@ The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.
 
 # Registration
 
-Registration details (including link and deadlines) will be announced once the dates and venue are finalised.
+Registration details (including link and deadlines) will be announced in due course.
 
 <!--
 Previous conference registration information:
