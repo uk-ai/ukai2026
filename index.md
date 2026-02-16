@@ -13,7 +13,7 @@ A full programme for the conference can be found [here](https://uk-ai.org/ukai20
 
 # Venue
 
-The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.conference.location }}, from {{ site.data.conference.dates[0] }} to {{ site.data.conference.dates[1] }}. Further details about the exact venue and travel information will be provided on the **[Venue page]({{ "venue.html" | relative_url }})** when confirmed.
+The conference will be hosted at <!--{{ site.data.conference.venue }},-->{{ site.data.conference.location }}, from <b>{{ site.data.conference.dates[0] | date: "%A, %-d %B %Y" }} to {{ site.data.conference.dates.last | date: "%A, %-d %B %Y" }}</b> at {% if site.data.conference.venue_url %}<a href="{{ site.data.conference.venue_url }}" target="_blank">{% endif %}{{ site.data.conference.venue }}. Further details about the exact venue and travel information will be provided on the **[Venue page]({{ "venue.html" | relative_url }})** when confirmed.
 
 # Registration
 
