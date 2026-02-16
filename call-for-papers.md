@@ -53,7 +53,7 @@ Submissions of full papers must nominate one author to assist with the peer revi
 
 {% include listdates.html %}
 
-We look forward to receiving your submissions and welcoming you to the conference at the University of Nottingham.
+We look forward to receiving your submissions and welcoming you to the conference.
 
 ### Sponsorship
 
