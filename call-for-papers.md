@@ -3,9 +3,13 @@ layout: page
 title: Call for Papers
 ---
 
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}{% assign nowunix = nowunix | plus: 0%}
+{% capture conftime %}{{ site.data.conference.dates.last | date: '%s'}}{% endcapture %}{% assign conftime = conftime | plus: 0%}
+
 <p>The UK AI Community is pleased to announce the {{ site.data.conference.instance }} {{ site.data.conference.styling }} {{site.data.conference.full_name }}, {% if conftime > nowunix %} which will be held{% else %}, which was held{% endif %} in {{ site.data.conference.location }}, from <b>{{ site.data.conference.dates[0] | date: "%A, %-d %B %Y" }} to {{ site.data.conference.dates.last | date: "%A, %-d %B %Y" }}</b> at {% if site.data.conference.venue_url %}<a href="{{ site.data.conference.venue_url }}" target="_blank">{% endif %}{{ site.data.conference.venue }}. The exact venue will be confirmed shortly. We are delighted to continue bringing together researchers from across the UK to advance the national research on Artificial Intelligence. The conference will feature full-paper talks and poster presentations. This year, we invite two types of submissions:</p>
 
 **Full Papers**: for researchers wishing to give a talk and have their work published in the Proceedings of Machine Learning Research (PMLR) as part of the conference proceedings.
+
 **Abstracts**: for poster presentations at the conference.
 
 This event will allow researchers nationwide to share work on all aspects of AI, from theory and development to application and real-world implementation. Topics include, but are not limited to:
