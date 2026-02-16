@@ -73,12 +73,16 @@ chairs:
     # Give their personal web page.
     url: https://www.nottingham.ac.uk/research/groups/cfam/meet-the-team/feng.zhou2
     institute: University of Nottingham
-#- type: Alan Turing Institute
-#  people:
-#    - family: TBD
-#      given: TBD
-#      url:
-#      institute: The Alan Turing Institute
+- type: University of Nottingham
+  people:
+    - family: Rees
+      given: Lynn
+      url: https://www.nottingham.ac.uk/computerscience/people/lynn.rees
+      institute: University of Nottingham
+    - family: Sayers
+      given: Hazel
+      url: https://www.nottingham.ac.uk/computerscience/people/hazel.sayers
+      institute: University of Nottingham
 #- type: UKRI/EPSRC
 #  people:
 #    - family: TBD
