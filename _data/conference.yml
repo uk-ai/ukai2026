@@ -10,21 +10,21 @@ venue: University of Nottingham
 venue_url:
 location: Nottingham, UK
 year: 2026
-month: October
+month: September
 # dates to be set when venue finalised
-dates: []
+dates: [2026-09-29, 2026-09-30]
 deadlines:
   # Fill in the key dates as below.
   - name: Submission deadline
-    text: To be announced
+    text: 19th June 2026
     type: submission
     important: True
   - name: Notification of decisions
-    text: To be announced
+    text: 21st August 2026
     type: decision
     important: True
   - name: Conference dates
-    text: To be announced
+    text: 29th September - 30th September 2026
     type: conference
     important: True
 # Give the submission site details here.
@@ -34,7 +34,7 @@ submission:
   # The URL of the submission site.
   url: ""
   # The name of the submission site (e.g. Microsoft CMT Website)
-  name: Submission Form
+  name: Submission Site
 # List program chairs here.
 chairs:
 - type: Program Committee

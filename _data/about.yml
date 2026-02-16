@@ -3,10 +3,8 @@ hero:
 body: |
   <p>This event will allow researchers nationwide to share work on all aspects of AI, from theory and development to application and real-world implementation.</p>
 partners:
-  - label: Health Data Research UK
-    link: /assets/images/hdruk_logo.png
   - label: UK Research and Innovation
-    link: https://www.ukri.org/ 
+    link: https://www.ukri.org/
     image: /assets/images/ukri-logo.png
   - label: The Alan Turing Institute
     link: https://www.turing.ac.uk/

@@ -13,8 +13,7 @@ A full programme for the conference can be found [here](https://uk-ai.org/ukai20
 
 # Venue
 
-The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.conference.location }}.
-Further details about the exact venue and travel information will be provided on the **[Venue page]({{ "venue.html" | relative_url }})** when confirmed.
+The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.conference.location }}, from {{ site.data.conference.dates[0] }} to {{ site.data.conference.dates[1] }}. Further details about the exact venue and travel information will be provided on the **[Venue page]({{ "venue.html" | relative_url }})** when confirmed.
 
 # Registration
 
@@ -28,11 +27,11 @@ Registration closed on the 6th of June 2025.
 
 # Abstract Submission
 
-Details of the submission portal will be announced shortly.
-
 Please see the **[Call for Papers]({{ "call-for-papers.html" | relative_url }})** for the current submission guidelines.
 
-For questions and queries please contact Christian Cabrera: [chc79@cam.ac.uk](mailto:chc79@cam.ac.uk)
+Details of the submission portal will be announced shortly.
+
+For questions and queries please contact Christian Cabrera: [meeting@uk-ai.org](mailto:meeting@uk-ai.org)
 
 # Key Dates
 
@@ -46,7 +45,6 @@ For questions and queries please contact Christian Cabrera: [chc79@cam.ac.uk](ma
 
 # Sponsors
 
+<!--
 <a href="https://www.hdruk.ac.uk/" target="_blank"><img src="./assets/images/hdruk_logo.png" alt="HDR UK" style="width: 30%; max-width: 200px;"></a>
-
-
-
+-->
