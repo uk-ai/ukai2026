@@ -45,6 +45,6 @@ For questions and queries please contact Christian Cabrera: [meeting@uk-ai.org](
 
 # Sponsors
 
-<!--
-<a href="https://www.hdruk.ac.uk/" target="_blank"><img src="./assets/images/hdruk_logo.png" alt="HDR UK" style="width: 30%; max-width: 200px;"></a>
--->
+<a href="https://www.somabotics.ac.uk/" target="_blank"><img src="./assets/images/somabotics-logo-black-greyongrad.png" alt="SOMABOTICS" style="width: 30%; max-width: 200px;"></a>
+
+This work is being supported by the Engineering and Physical Sciences Research Council (EPSRC) through the Turing AI World Leading Researcher Fellowship: Somabotics: Creatively Embodying Artificial Intelligence [grant number EP/Z534808/1]
