@@ -31,7 +31,7 @@ Please see the **[Call for Papers]({{ "call-for-papers.html" | relative_url }})*
 
 Details of the submission portal will be announced shortly.
 
-For questions and queries please contact Christian Cabrera: [meeting@uk-ai.org](mailto:meeting@uk-ai.org)
+For questions and queries please contact our team: [meeting@uk-ai.org](mailto:meeting@uk-ai.org)
 
 # Key Dates
 
