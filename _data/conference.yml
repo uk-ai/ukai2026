@@ -6,8 +6,8 @@ instance: Fourth
 # set to True if the programme is draft only.
 draft: False # set tbo True if the programme is draft only.
 hide_tentative: False
-venue: University of Nottingham
-venue_url:
+venue: The Hilton Nottingham
+venue_url: https://www.hilton.com/en/hotels/emanohn-hilton-nottingham/
 location: Nottingham, UK
 year: 2026
 month: September
