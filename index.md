@@ -25,7 +25,7 @@ To register for the conference, please use this link: **[Registration](https://w
 Registration closed on the 6th of June 2025.
 -->
 
-# Abstract Submission
+# Papers Submission
 
 Please see the **[Call for Papers]({{ "call-for-papers.html" | relative_url }})** for the current submission guidelines.
 
