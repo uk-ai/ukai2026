@@ -29,7 +29,7 @@ Registration closed on the 6th of June 2025.
 
 Please see the **[Call for Papers]({{ "call-for-papers.html" | relative_url }})** for the current submission guidelines.
 
-Details of the submission portal will be announced shortly.
+Submit via **[{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}**. Authors must be registered on OpenReview prior to submission.
 
 For questions and queries please contact our team: [meeting@uk-ai.org](mailto:meeting@uk-ai.org)
 

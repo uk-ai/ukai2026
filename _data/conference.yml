@@ -29,11 +29,11 @@ deadlines:
 # Give the submission site details here.
 submission:
   # Whether to show the submission site.
-  show: False
+  show: True
   # The URL of the submission site.
-  url: ""
+  url: https://openreview.net/group?id=uk-ai.org/UKAI/2026/Conference
   # The name of the submission site (e.g. Microsoft CMT Website)
-  name: Submission Site
+  name: OpenReview
 # List program chairs here.
 chairs:
 - type: Program Committee
