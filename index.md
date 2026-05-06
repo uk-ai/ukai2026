@@ -17,7 +17,7 @@ The conference will be hosted in {{ site.data.conference.location }}, from <b>{{
 
 # Registration
 
-Registration details (including link and deadlines) will be announced in due course.
+{% include registration.html %}
 
 <!--
 Previous conference registration information:
