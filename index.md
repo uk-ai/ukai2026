@@ -3,17 +3,17 @@ layout: home
 title: Index
 ---
 
-# Programme
+# Papers Submission
 
-The detailed programme for the UK AI Conference 2026 will be announced closer to the conference dates.
+Please see the **[Call for Papers]({{ "call-for-papers.html" | relative_url }})** for the current submission guidelines.
 
-<!--
-A full programme for the conference can be found [here](https://uk-ai.org/ukai2026/program.html).
--->
+Submit via **[{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}**. Authors must be registered on OpenReview prior to submission.
 
-# Venue
+For questions and queries please contact our team: [meeting@uk-ai.org](mailto:meeting@uk-ai.org)
 
-The conference will be hosted in {{ site.data.conference.location }}, from <b>{{ site.data.conference.dates[0] | date: "%A, %-d %B %Y" }} to {{ site.data.conference.dates.last | date: "%A, %-d %B %Y" }}</b> at {% if site.data.conference.venue_url %}<a href="{{ site.data.conference.venue_url }}" target="_blank">{% endif %}{{ site.data.conference.venue }}</a>. Further details about the exact venue and travel information can be found on the **[Venue page]({{ "venue.html" | relative_url }})**.
+## Key Dates
+
+{% include listdates.html %}
 
 # Registration
 
@@ -25,17 +25,17 @@ To register for the conference, please use this link: **[Registration](https://w
 Registration closed on the 6th of June 2025.
 -->
 
-# Papers Submission
+# Programme
 
-Please see the **[Call for Papers]({{ "call-for-papers.html" | relative_url }})** for the current submission guidelines.
+The detailed programme for the UK AI Conference 2026 will be announced closer to the conference dates.
 
-Submit via **[{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}**. Authors must be registered on OpenReview prior to submission.
+<!--
+A full programme for the conference can be found [here](https://uk-ai.org/ukai2026/program.html).
+-->
 
-For questions and queries please contact our team: [meeting@uk-ai.org](mailto:meeting@uk-ai.org)
+# Venue
 
-# Key Dates
-
-{% include listdates.html %}
+The conference will be hosted in {{ site.data.conference.location }}, from <b>{{ site.data.conference.dates[0] | date: "%A, %-d %B %Y" }} to {{ site.data.conference.dates.last | date: "%A, %-d %B %Y" }}</b> at {% if site.data.conference.venue_url %}<a href="{{ site.data.conference.venue_url }}" target="_blank">{% endif %}{{ site.data.conference.venue }}</a>. Further details about the exact venue and travel information can be found on the **[Venue page]({{ "venue.html" | relative_url }})**.
 
 # Organizing Committee
 
