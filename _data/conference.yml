@@ -19,7 +19,7 @@ deadlines:
     type: submission
     important: True
   - name: Notification of decisions
-    text: 21st August 2026
+    text: 31st July 2026
     type: decision
     important: True
   - name: Conference dates
