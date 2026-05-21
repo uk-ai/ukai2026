@@ -8,5 +8,3 @@ end_time: 2026-09-30 17:30
 location:
 venue: The Hilton Nottingham, Nottingham, UK
 ---
-
-Conference closing.
