@@ -4,7 +4,7 @@ name: UK AI Conference 2026
 instance: Fourth
 #styling: Conference for
 # set to True if the programme is draft only.
-draft: False # set tbo True if the programme is draft only.
+draft: True
 hide_tentative: False
 venue: The Hilton Nottingham
 venue_url: https://www.hilton.com/en/hotels/emanohn-hilton-nottingham/

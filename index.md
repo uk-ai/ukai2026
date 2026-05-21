@@ -27,11 +27,7 @@ Registration closed on the 6th of June 2025.
 
 # Programme
 
-The detailed programme for the UK AI Conference 2026 will be announced closer to the conference dates.
-
-<!--
-A full programme for the conference can be found [here](https://uk-ai.org/ukai2026/program.html).
--->
+A draft programme for the conference is available on the **[Programme page]({{ "program.html" | relative_url }})** (day-by-day schedule linked from there).
 
 # Venue
 

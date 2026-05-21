@@ -1,10 +1,12 @@
 ---
-title: "Conference Closing and Prizes"
-track: 1
-excerpt:
 layout: plenary
-start_time: 2025-06-24 17:10
-end_time: 2025-06-24 17:25
+title: "Conference Closing"
+track: 1
+excerpt: Closing remarks
+start_time: 2026-09-30 17:20
+end_time: 2026-09-30 17:30
 location:
-venue: The Gibbs Building, Wellcome Trust Collection, London, UK
+venue: The Hilton Nottingham, Nottingham, UK
 ---
+
+Conference closing.

@@ -1,12 +1,12 @@
 ---
+layout: plenary
 title: "Coffee Break"
 track: 1
 excerpt: Afternoon coffee break
-layout: plenary
-start_time: 2025-06-24 15:30
-end_time: 2025-06-24 15:55
+start_time: 2026-09-30 15:35
+end_time: 2026-09-30 16:35
 location:
-venue: The Gibbs Building, Wellcome Trust Collection, London, UK
+venue: The Hilton Nottingham, Nottingham, UK
 ---
 
-Afternoon coffee break. Take this opportunity to network with fellow attendees.
+Afternoon coffee break.

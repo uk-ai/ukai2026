@@ -1,12 +1,12 @@
 ---
+layout: plenary
 title: "Registration, Teas and Coffees"
 track: 1
 excerpt: Registration and refreshments
-layout: plenary
-start_time: 2025-06-24 09:30
-end_time: 2025-06-24 10:00
+start_time: 2026-09-30 09:30
+end_time: 2026-09-30 10:00
 location:
-venue: The Gibbs Building, Wellcome Trust Collection, London, UK
+venue: The Hilton Nottingham, Nottingham, UK
 ---
 
-Registration and refreshments will be available in the main hall. Please collect your conference badge and materials. 
+Registration and refreshments.
