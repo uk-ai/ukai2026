@@ -27,7 +27,7 @@ Registration closed on the 6th of June 2025.
 
 # Programme
 
-A draft programme for the conference is available on the **[Programme page]({{ "program.html" | relative_url }})** (day-by-day schedule linked from there).
+A draft programme for the conference is available on the **[Programme page]({{ "program.html" | relative_url }})**.
 
 # Venue
 
