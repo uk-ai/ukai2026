@@ -2,7 +2,7 @@
 layout: plenary
 title: "Conference Welcome"
 track: 1
-excerpt: Opening welcome
+excerpt:
 start_time: 2026-09-29 10:00
 end_time: 2026-09-29 10:05
 location:
