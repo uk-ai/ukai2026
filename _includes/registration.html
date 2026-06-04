@@ -1,12 +1,19 @@
-<p>Registration opens 1st June. Please re-visit this page to access the online registration link</p>
+{% if site.data.conference.registration.show %}
+<p>
+  Register via the
+  <strong><a href="{{ site.data.conference.registration.url }}" target="_blank" rel="noopener noreferrer">{{ site.data.conference.registration.name }}</a></strong>
+  (University of Nottingham).
+</p>
+{% endif %}
 
-<p></p>
+<p>Registration fees:</p>
+<ul>
+  <li>Student &amp; Early Career Researcher: £35</li>
+  <li>Delegate (non-student): £60</li>
+</ul>
 
-<p> Registration fees:
-  <ul>
-    <li>Early Career Researcher: £35</li>
-    <li>No Early Career Researcher: £60</li>
-  </ul>
+<p>
+  <strong>Early Career Researcher (ECR)</strong>: For the purposes of registration, an ECR is defined as a current PhD student or a researcher who has received their PhD within the last 7 years (allowing for any career breaks).
 </p>
 
-<p><strong>Early Career Researcher (ECR)</strong>: For the purposes of registration, an ECR is defined as a current PhD student or a researcher who has received their PhD within the last 7 years (allowing for any career breaks).</p>
+<p><em>Last booking date: 4 September 2026.</em></p>

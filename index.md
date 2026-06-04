@@ -19,12 +19,6 @@ For questions and queries please contact our team: [meeting@uk-ai.org](mailto:me
 
 {% include registration.html %}
 
-<!--
-Previous conference registration information:
-To register for the conference, please use this link: **[Registration](https://www.eventbrite.co.uk/e/uk-ai-conference-2025-tickets-1323452765849){:target="_blank"}**
-Registration closed on the 6th of June 2025.
--->
-
 # Programme
 
 A draft programme for the conference is available on the **[Programme page]({{ "program.html" | relative_url }})**.

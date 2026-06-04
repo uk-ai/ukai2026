@@ -1,0 +1,19 @@
+---
+description: Concise, plain-English chat (points to master rules)
+globs: "**/*"
+alwaysApply: true
+---
+
+# Communication
+
+**Master (full text):** `D:/auto-ai/repositories/cabrerac.github.io/.cursor/rules/customised_workspace.mdc` (section **Communication**) and `communication.mdc` there.
+
+Apply in every chat:
+
+- **Concise:** Less text, more usefulness. No long intros unless asked.
+- **Concrete:** Decisions, short lists, clear next steps.
+- **Plain words:** Everyday English. Explain project-specific labels the first time (one line). Do not assume the user knows jargon from docs or prior sessions.
+- **Not telegraphic:** Full sentences; no acronym soup.
+- **Length:** Match the task.
+
+Session start and end: **brief** bullets only (see `customised_workflow_stages.mdc`).

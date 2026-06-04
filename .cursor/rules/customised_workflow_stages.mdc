@@ -1,0 +1,36 @@
+---
+description: 5-stage workflow and session rituals (slim local copy; master is authoritative)
+globs: "**/*"
+alwaysApply: true
+---
+
+# Customised workflow (project-local)
+
+**Master:** `D:/auto-ai/repositories/cabrerac.github.io/.cursor/rules/customised_workspace.mdc` — read at session start.
+
+## Rules stack
+
+1. **This file**, `master-task-link.mdc`, and `communication.mdc` (auto-loaded).
+2. **Master file** (workflow, authorization, Communication).
+3. **User instructions in this chat** override the above (state briefly).
+
+## 5-stage workflow (summary)
+
+1. Select the TODO task → 2. Brainstorm subtasks → 3. Alternatives → choice → 4. Implement (after approval) → 5. Reflect and update docs.
+
+Loop: 3 → 4 → 5 → next subtask, or back to 1.
+
+## Authorization
+
+Deliberation in chat only. **Any file change** needs user approval (batch OK).
+
+## Session start
+
+1. Read this file, `master-task-link.mdc`, `communication.mdc`.
+2. Read the **master file** (Communication + full workflow).
+3. Follow **master-task-link.mdc** for `tasks.yaml`, venues, and planning detail.
+4. **Brief** methodology in chat; Stage 1 unless resuming.
+
+## Session end
+
+Chat-only unless authorized. **Short:** summary, implications, next steps, one-line closing (repeat Session start next time).

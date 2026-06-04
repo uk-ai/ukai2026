@@ -26,6 +26,10 @@ deadlines:
     text: 29th September - 30th September 2026
     type: conference
     important: True
+  - name: Last booking date
+    text: 4th September 2026
+    type: registration
+    important: True
 # Give the submission site details here.
 submission:
   # Whether to show the submission site.
@@ -34,6 +38,10 @@ submission:
   url: https://openreview.net/group?id=uk-ai.org/UKAI/2026/Conference
   # The name of the submission site (e.g. Microsoft CMT Website)
   name: OpenReview
+registration:
+  show: True
+  url: https://store.nottingham.ac.uk/conferences-and-events/conferences/schools-and-departments/computer-science/the-fourth-uk-ai-conference-2026
+  name: Register online
 # List program chairs here.
 chairs:
 - type: Program Committee

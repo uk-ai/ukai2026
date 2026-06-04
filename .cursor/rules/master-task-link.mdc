@@ -1,0 +1,23 @@
+---
+description: Link to master task list (UK AI conference website)
+alwaysApply: true
+---
+
+# Master task link — ukai2026
+
+**Task:** `uk-ai` in `D:/auto-ai/repositories/diary/tasks.yaml`.
+
+**Website repo:** This directory (`D:/auto-ai/repositories/ukai/events/ukai2026`).
+
+**Planning detail:** `D:/auto-ai/repositories/cabrerac.github.io/work-space/uk-ai/planning/subtasks.md`
+
+**Deadline (task):** 2026-09-29 (see `tasks.yaml`).
+
+## Session start
+
+1. Read `tasks.yaml` — `now:` and `next:` for **uk-ai**.
+2. Read `venues.md` if needed — flag deadlines within 90 days.
+3. Read **work-space** `subtasks.md` for committee / admin context.
+4. Follow `customised_workflow_stages.mdc` and the master at `cabrerac.github.io/.cursor/rules/customised_workspace.mdc`.
+
+**Workflow rules:** master at `D:/auto-ai/repositories/cabrerac.github.io/.cursor/rules/customised_workspace.mdc`.
