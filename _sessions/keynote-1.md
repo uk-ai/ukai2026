@@ -1,6 +1,6 @@
 ---
 layout: plenary
-title: "Keynote — Day 1 morning (title to be confirmed)"
+title: "Keynote — Responsible AI for the Digital Afterlife"
 track: 1
 excerpt: Keynote by Prof Elvira Perez Vallejos, University of Nottingham
 start_time: 2026-09-29 10:10
