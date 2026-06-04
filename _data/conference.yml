@@ -41,7 +41,7 @@ submission:
 registration:
   show: True
   url: https://store.nottingham.ac.uk/conferences-and-events/conferences/schools-and-departments/computer-science/the-fourth-uk-ai-conference-2026
-  name: Register online
+  name: Online Store by University of Nottingham
 # List program chairs here.
 chairs:
 - type: Program Committee
