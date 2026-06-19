@@ -30,7 +30,7 @@ This event will allow researchers nationwide to share work on all aspects of AI,
 - Digital Twins
 - AI Systems
 
-Submissions are made via **[{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}**. **Authors must be registered on OpenReview prior to submission.**
+{% include submission_instructions.html %}
 
 ### Submission Guidelines
 

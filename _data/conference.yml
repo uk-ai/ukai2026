@@ -15,7 +15,7 @@ dates: [2026-09-29, 2026-09-30]
 deadlines:
   # Fill in the key dates as below.
   - name: Submission deadline
-    text: 19th June 2026
+    text: 24th June 2026
     type: submission
     important: True
   - name: Notification of decisions
