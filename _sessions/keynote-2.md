@@ -1,6 +1,6 @@
 ---
 layout: plenary
-title: "Keynote — Day 1 afternoon (title to be confirmed)"
+title: "What should be the colour of AI: purple, blue, red or green?"
 track: 1
 excerpt: Keynote by Prof Aniko Ekárt, Aston University
 start_time: 2026-09-29 14:00
