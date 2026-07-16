@@ -9,8 +9,8 @@ location:
 venue: The Hilton Nottingham, Nottingham, UK
 ---
 
-Prof **Elvira Perez Vallejos** will deliver the opening keynote on the first day of UK AI 2026. The session title will be confirmed nearer the conference.
+Prof **Elvira Perez Vallejos** will deliver the opening keynote on the first day of UK AI 2026.
 
 Prof Perez Vallejos is Professor of Mental Health and Digital Technology at the University of Nottingham, Institute of Mental Health, NIHR Biomedical Research Centre Nottingham, and School of Computer Science, Responsible Digital Futures.
 
-**Specialist areas:** Responsible Research and Innovation (RRI), Equality, Diversity and Inclusion (EDI), healthcare, and digital mental health.
+**Research interests:** Responsible Research and Innovation (RRI), Equality, Diversity and Inclusion (EDI), healthcare, and digital mental health.
