@@ -3,8 +3,8 @@ layout: plenary
 title: "Presentation Session 1"
 track: 1
 excerpt: First session of research presentations
-start_time: 2026-09-29 11:55
-end_time: 2026-09-29 12:40
+start_time: 2026-09-29 11:30
+end_time: 2026-09-29 12:15
 location:
 venue: The Hilton Nottingham, Nottingham, UK
 ---
