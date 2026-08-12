@@ -22,6 +22,10 @@ deadlines:
     text: 31st July 2026
     type: decision
     important: True
+  - name: Camera-ready deadline
+    text: 4th September 2026
+    type: camera-ready
+    important: True
   - name: Conference dates
     text: 29th September - 30th September 2026
     type: conference
