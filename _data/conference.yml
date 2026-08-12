@@ -26,13 +26,13 @@ deadlines:
     text: 4th September 2026
     type: camera-ready
     important: True
-  - name: Conference dates
-    text: 29th September - 30th September 2026
-    type: conference
-    important: True
   - name: Last booking date
     text: 4th September 2026
     type: registration
+    important: True
+  - name: Conference dates
+    text: 29th September - 30th September 2026
+    type: conference
     important: True
 # Give the submission site details here.
 submission:
