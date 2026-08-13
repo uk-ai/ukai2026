@@ -11,6 +11,12 @@ title: Index
 
 {% include listdates.html %}
 
+# Camera-ready (accepted full papers)
+
+{% include camera_ready_instructions.html %}
+
+Background on topics and format is on the **[Call for Papers]({{ "call-for-papers.html" | relative_url }})** page (submissions are now closed).
+
 # Programme
 
 A draft programme for the conference is available on the **[Programme page]({{ "program.html" | relative_url }})**.

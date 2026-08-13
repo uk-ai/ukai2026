@@ -14,14 +14,6 @@ month: September
 dates: [2026-09-29, 2026-09-30]
 deadlines:
   # Fill in the key dates as below.
-  - name: Submission deadline
-    text: 24th June 2026
-    type: submission
-    important: False
-  - name: Notification of decisions
-    text: 31st July 2026
-    type: decision
-    important: False
   - name: Camera-ready deadline
     text: 4th September 2026
     type: camera-ready
@@ -36,9 +28,9 @@ deadlines:
     important: True
 # Give the submission site details here.
 submission:
-  # Whether to show the submission site.
-  show: True
-  # The URL of the submission site.
+  # Whether to show open submission (false after deadline; OpenReview URL still used for camera-ready).
+  show: False
+  # The URL of the submission / camera-ready site.
   url: https://openreview.net/group?id=uk-ai.org/UKAI/2026/Conference
   # The name of the submission site (e.g. Microsoft CMT Website)
   name: OpenReview
