@@ -2,7 +2,7 @@
   <div class="event-info">
   <h3>{{ session.title }}</h3>
   <p>{{ session.date | date: "%A, %B %-d" }}</p>
-  <p>{{ session.excerpt }}</p>
+  {% if session.excerpt %}<div class="session-excerpt">{{ session.excerpt | markdownify }}</div>{% endif %}
   {% for talk in session.talks %}
   {% include listtalk.html %}
   {% endfor %}

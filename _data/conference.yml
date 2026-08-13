@@ -17,11 +17,11 @@ deadlines:
   - name: Submission deadline
     text: 24th June 2026
     type: submission
-    important: True
+    important: False
   - name: Notification of decisions
     text: 31st July 2026
     type: decision
-    important: True
+    important: False
   - name: Camera-ready deadline
     text: 4th September 2026
     type: camera-ready

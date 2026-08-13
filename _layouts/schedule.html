@@ -1,0 +1,65 @@
+---
+layout: page
+---
+{% comment %}
+Local override of uk-ai/jekyll-theme _layouts/schedule.html.
+Changes vs theme: (1) session title links to the session page instead of wrapping
+the whole card in <a>, so Markdown links in excerpts work; (2) excerpts use markdownify.
+Grid timing / height / track logic is unchanged.
+{% endcomment %}
+
+<h1>{{ page.title }}</h1>
+
+<h2>{{ page.start_time | date: "%b %-d, %Y"}}</h2>
+
+{% assign sessions = site.sessions | sort: 'start_time' %}
+
+{% assign max_track_number = 0 %}
+{% for session in sessions %}
+  {% if session.track > max_track_number %}
+    {% assign max_track_number = session.track %}
+  {% endif %}
+{% endfor %}
+
+{% assign row = 1 %}
+{% capture last %}{{'1900-00-00' | date: '%s' }}{% endcapture %}
+
+{% capture page_start %}{{ page.start_time | date: '%s'}}{%endcapture%}
+{% capture page_end %}{{ page.end_time | date: '%s'}}{%endcapture%}
+{% assign padding_bottom = 60 %}
+<div class="schedule">
+  {% for session in sessions %}
+  {% capture start_time %}{{ session.start_time | date: "%H:%M" }}{% endcapture %}
+  {% capture end_time %}{{ session.end_time | date: "%H:%M" }}{% endcapture %}
+  {% capture start %}{{ session.start_time | date: '%s' }}{% endcapture %}
+  {% if start > page_start and start < page_end %}
+  {% capture finish %}{{ session.end_time | date: '%s' }}{% endcapture %}
+  {% assign length = finish | minus: start | divided_by: 60 %}
+  {% if start >= last %}
+    {% assign row = row | plus:1 %}
+
+    {%endif %}
+    {% if session.layout == "plenary" or session.layout == "break" %}
+      <div class="card {{ session.layout }}-session" style="grid-column: span {{max_track_number}};grid-row: {{ row }};height: {{ length | times: 3 | plus: padding_bottom}}px">
+	<div class="session-info">
+          <h3><a href="{{ session.url | relative_url }}">{{ session.title }}</a></h3>
+          <p>{{ session.speaker }}</p>
+          <p>{{ start_time }} - {{ end_time }}</p>
+	  {% if session.excerpt %}<div class="session-excerpt">{{ session.excerpt | markdownify }}</div>{% endif %}
+        </div>
+      </div>
+    {% else %}
+      <div class="card {{ session.layout }}-session" style="grid-column: {{ session.track }};grid-row: {{ row }};height: {{ length | times: 2 | plus: padding_bottom}}px">
+        <div class="session-info">
+	  <h3><a href="{{ session.url | relative_url }}">{{ session.title }}</a></h3>
+          <p>{{ session.speaker }}</p>
+          <p>{{ start_time }} - {{ end_time }}</p>
+	  {% if session.excerpt %}<div class="session-excerpt">{{ session.excerpt | markdownify }}</div>{% endif %}
+        </div>
+      </div>
+
+    {% endif %}
+    {% assign last = finish %}
+    {% endif %}
+    {% endfor %}
+</div>
