@@ -11,7 +11,7 @@ title: Index
 
 {% include listdates.html %}
 
-# Camera-ready (accepted full papers)
+# Camera-ready
 
 {% include camera_ready_instructions.html %}
 
