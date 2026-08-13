@@ -3,9 +3,8 @@ layout: plenary
 title: "AI LENS: Stories from the Latent Space"
 track: 1
 excerpt: >-
-   Somabotics AI LENS film screening at Broadway Cinema (Screen 1).
-   Booking required - [AI LENS: Stories from the Latent space - Registration Link](https://www.eventbrite.com/e/ai-lens-stories-from-the-latent-space-tickets-1997139756774){:target="_blank"}.
    This free event is open to UK AI Conference delegates and the public.
+   [Booking required - AI LENS: Stories from the Latent space - Registration Link](https://www.eventbrite.com/e/ai-lens-stories-from-the-latent-space-tickets-1997139756774){:target="_blank"}.
 start_time: 2026-09-29 19:00
 end_time: 2026-09-29 21:00
 location:
