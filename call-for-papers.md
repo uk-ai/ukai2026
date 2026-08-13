@@ -8,7 +8,7 @@ title: Call for Papers
 
 <p>The UK AI Community is pleased to announce the {{ site.data.conference.instance }} {{ site.data.conference.styling }} {{site.data.conference.full_name }}, {% if conftime > nowunix %} which will be held{% else %}, which was held{% endif %} in {{ site.data.conference.location }}, from <b>{{ site.data.conference.dates[0] | date: "%A, %-d %B %Y" }} to {{ site.data.conference.dates.last | date: "%A, %-d %B %Y" }}</b> at {% if site.data.conference.venue_url %}<a href="{{ site.data.conference.venue_url }}" target="_blank">{% endif %}{{ site.data.conference.venue }}</a>. We are delighted to continue bringing together researchers from across the UK to advance the national research on Artificial Intelligence. The conference will feature full-paper talks and poster presentations.</p>
 
-<p><strong>Submissions are now closed.</strong> Accepted full papers should prepare camera-ready versions for PMLR — see the section below.</p>
+<p><strong>Submissions are now closed.</strong> Accepted full papers should prepare camera-ready versions for PMLR. See the section below.</p>
 
 ### Camera-ready (accepted full papers)
 
