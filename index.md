@@ -3,29 +3,21 @@ layout: home
 title: Index
 ---
 
-# Papers Submission
+# Registration
 
-Please see the **[Call for Papers]({{ "call-for-papers.html" | relative_url }})** for the current submission guidelines.
-
-{% include submission_instructions.html %}
-
-For questions and queries please contact our team: [meeting@uk-ai.org](mailto:meeting@uk-ai.org)
+{% include registration.html %}
 
 ## Key Dates
 
 {% include listdates.html %}
 
-# Registration
-
-{% include registration.html %}
-
 # Programme
 
 A draft programme for the conference is available on the **[Programme page]({{ "program.html" | relative_url }})**.
 
-# Evening screening — AI LENS
+## Evening screening - AI LENS
 
-On **Tuesday 29 September, 19:00–21:00**, join the Somabotics Turing AI Fellowship for **[AI LENS: Stories from the Latent Space](https://www.eventbrite.com/e/ai-lens-stories-from-the-latent-space-tickets-1997139756774){:target="_blank"}** at Broadway Cinema, Nottingham — a free screening of three short films created with AI LENS, followed by a short panel. Open to conference delegates and the public; **booking is essential** via Eventbrite.
+On **Tuesday 29 September, 19:00–21:00**, join the Somabotics Turing AI Fellowship for **[AI LENS: Stories from the Latent Space](https://www.eventbrite.com/e/ai-lens-stories-from-the-latent-space-tickets-1997139756774){:target="_blank"}** at Broadway Cinema, Nottingham. This is a free screening of three short films created with AI LENS, followed by a short panel. Open to conference delegates and the public. **Booking is required** via Eventbrite.
 
 # Venue
 
