@@ -18,7 +18,7 @@ venue: The Hilton Nottingham, Nottingham, UK
 | 47 | GCViT-Swin Ensemble with Knowledge Distillation for Fine-Grained Bird Species Classification | Hazrat Ali | University of Stirling |
 | 48 | The use of computer vision to monitor behaviors in which equine sleep has the potential to occur | Martyna K. Iruretagoyena Jankowska | University of Nottingham |
 | 49 | Machine Learning Analysis of Economic Vulnerability and Employment Outcomes Among Adults Living with HIV in South Africa Using Demographic and Health Survey Data | Elizabeth Ayeni | University of Hull |
-| 50 | Mask-conditioned synthetic prostate MRI volumes using a denoising diffusion probabilistic model | Chibike Ugbam | TBC |
+| 50 | Mask-conditioned synthetic prostate MRI volumes using a denoising diffusion probabilistic model | Chibike Ugbam | Sheffield Hallam University |
 | 51 | CardioExpert: An Adaptive Agentic Framework for Tool Augmented Multimodal Cardiovascular Care Support | Yuting Zhang | University of Birmingham |
 | 52 | Conversational AI as an Intelligent Operational Assistant for Care Home Staff: Design and Evaluation of an Audit Support Platform | Animesh Singh Basnet | Aston University |
 | 53 | Exploring Perinatal Mental Health Experiences of UK Migrant Women Using Natural Language Processing | Cynthia Nwafor | University of Hull |
@@ -31,6 +31,6 @@ venue: The Hilton Nottingham, Nottingham, UK
 | 61 | Mechanistic Cognitive State Decoding from fNIRS Using Dynamical Systems Theory | Prathu | University of Nottingham |
 | 62 | Exploring different sources of priors for Bayesian biologics stability modelling | Louis Widi Anandaputra | University of Birmingham |
 | 63 | Automated Binary Classification of Chemically Treated Platelets Using Deep Learning: A Transfer Learning Approach | Victor Daniel | University of Hull |
-| 64 | Comparative Evaluation of GPT-4o-mini and Llama-3.1-8b for Extracting Climate Hazard Impacts from Nigerian News Text | Itunu Ijila | TBC |
+| 64 | Comparative Evaluation of GPT-4o-mini and Llama-3.1-8b for Extracting Climate Hazard Impacts from Nigerian News Text | Itunu Ijila | University of Hull |
 | 65 | Regime-Dependent Performance Analysis of Fractional Physics-Informed Neural Networks for Reaction--Diffusion Drug Delivery Systems | Mohammad Farhad Bulbul | Jashore University of Science and Technology |
 | 66 | Predicting Prolonged Hospitalisation from the First 24 Hours: A Multimodal Mixture-of-Experts Framework | Yuanyuan Chen | University of Limerick |

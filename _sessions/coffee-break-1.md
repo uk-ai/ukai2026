@@ -21,8 +21,8 @@ venue: The Hilton Nottingham, Nottingham, UK
 | 6 | Linguistic patterns and communication strategies in Human-Robot interaction in collaborative robotic laundry sorting tasks | Joshua Moore | University of Nottingham |
 | 7 | When Does Learning Help? Multi-Agent Coordination Under Real-World Operational Constraints | Pranup Chhetri | Aston University |
 | 8 | A Principled Probabilistic Machine Learning Framework for Optical Communication Channels | Sina Seyfadini Kuhbanani | Aston University |
-| 9 | No-Load Core Loss Prediction in Power Transformers: A Stacking Ensemble Machine Learning Approach | Walter Lee | TBC |
-| 10 | Early Failure Detection in Industrial IoT: A Comparative Study of Machine Learning Algorithms on Imbalanced Sensor Data | Temitope Olubusola Ajayi | TBC |
+| 9 | No-Load Core Loss Prediction in Power Transformers: A Stacking Ensemble Machine Learning Approach | Walter Lee | GE Vernova; Edinburgh Napier University |
+| 10 | Early Failure Detection in Industrial IoT: A Comparative Study of Machine Learning Algorithms on Imbalanced Sensor Data | Temitope Olubusola Ajayi | Teesside University |
 | 11 | AIMS-SHM: Agentic Intelligent Monitoring System for Structural Health Monitoring under non-stationary degradation | Anshu Sharma | University of Strathclyde |
 | 12 | Trustworthy Online Learning from Erroneous Feedback: Robustness to Sparse Unbounded Corruption | Chun Yin Chiu | King's College London |
 | 13 | Mechanism Learning: Reverse causal inference in the presence of multiple unknown confounding through causally weighted Gaussian mixture models | Jianqiao Mao | University of Birmingham |
