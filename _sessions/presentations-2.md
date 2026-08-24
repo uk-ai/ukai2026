@@ -1,6 +1,6 @@
 ---
 layout: plenary
-title: "Presentation Session 2 — Computer Vision & Visual Intelligence"
+title: "Presentation Session 2 - Computer Vision & Visual Intelligence"
 track: 1
 excerpt: Research talks on computer vision and visual intelligence
 start_time: 2026-09-29 14:10

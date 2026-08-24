@@ -1,6 +1,6 @@
 ---
 layout: plenary
-title: "Presentation Session 1 — AI for Healthcare: Reliability, Risk & Data Quality"
+title: "Presentation Session 1 - AI for Healthcare: Reliability, Risk & Data Quality"
 track: 1
 excerpt: Research talks on healthcare AI, reliability, risk, and data quality
 start_time: 2026-09-29 11:30

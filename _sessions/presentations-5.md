@@ -1,6 +1,6 @@
 ---
 layout: plenary
-title: "Presentation Session 5 — Efficient & Deployment-Oriented AI"
+title: "Presentation Session 5 - Efficient & Deployment-Oriented AI"
 track: 1
 excerpt: Research talks on efficient and deployment-oriented AI
 start_time: 2026-09-30 16:00

@@ -1,6 +1,6 @@
 ---
 layout: plenary
-title: "Presentation Session 4 — Human-Centred AI: Trust, Understanding & Ethics"
+title: "Presentation Session 4 - Human-Centred AI: Trust, Understanding & Ethics"
 track: 1
 excerpt: Research talks on trust, understanding, and ethics in human-centred AI
 start_time: 2026-09-30 14:45

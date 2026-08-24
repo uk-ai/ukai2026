@@ -1,6 +1,6 @@
 ---
 layout: plenary
-title: "Presentation Session 3 — Secure & Trustworthy AI Systems"
+title: "Presentation Session 3 - Secure & Trustworthy AI Systems"
 track: 1
 excerpt: Research talks on secure and trustworthy AI systems
 start_time: 2026-09-30 11:30
