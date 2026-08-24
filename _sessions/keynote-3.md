@@ -1,6 +1,6 @@
 ---
 layout: plenary
-title: "Keynote — Autonomous acoustic biodiversity sensing"
+title: "Keynote - Autonomous acoustic biodiversity sensing"
 track: 1
 excerpt: Keynote by Dr Sarab Sethi, Imperial College London
 start_time: 2026-09-30 10:10
