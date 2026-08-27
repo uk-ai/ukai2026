@@ -28,7 +28,7 @@ venue: The Hilton Nottingham, Nottingham, UK
 | 58 | BHL and the Planetary Knowledge Base: A Gold-Standard Dataset and Domain LLM for Biodiversity Literature | Qianqian Gu | Natural History Museum |
 | 59 | Latent Projection and Graphical Simplification for Causal Identifiability in Wearable Parkinson’s Disease Studies | Nawfal Zakar | University of Birmingham |
 | 60 | Automated Morphological Analysis of Platelets in Microscopy Images Using K-Means Clustering Under Varying Experimental and Environmental Conditions | Emmanuel Smith Kofi Mensah | University of Hull |
-| 61 | Mechanistic Cognitive State Decoding from fNIRS Using Dynamical Systems Theory | Prathu | University of Nottingham |
+| 61 | AI-Powered Pollinator Monitoring at the Museum: a proof-of-concept AI-powered camera system to monitor daytime pollinators in the Natural History Museum’s Nature Discovery Garden | John Trusted | University College London and Natural History Museum |
 | 62 | Exploring different sources of priors for Bayesian biologics stability modelling | Louis Widi Anandaputra | University of Birmingham |
 | 63 | Automated Binary Classification of Chemically Treated Platelets Using Deep Learning: A Transfer Learning Approach | Victor Daniel | University of Hull |
 | 64 | Comparative Evaluation of GPT-4o-mini and Llama-3.1-8b for Extracting Climate Hazard Impacts from Nigerian News Text | Itunu Ijila | University of Hull |

@@ -15,6 +15,6 @@ venue: The Hilton Nottingham, Nottingham, UK
 
 | Start | End | Talk | Authors | Institution |
 | :---: | :---: | :--- | :--- | :--- |
-| 16:00 | 16:15 | Measuring and Reducing WebGPU Dispatch Overhead for LLM Inference | Jędrzej Maczan | Independent |
-| 16:15 | 16:30 | Adaptive Data Dropout: Towards Self-Regulated Learning in Deep Neural Networks | Amar Gahir, Varshil Patel, Shreyank N. Gowda | University of Nottingham; MachineTwo |
-| 16:30 | 16:45 | An AI-Based Decision-Support Pipeline for Day-Ahead Photovoltaic Forecasting | Fariba Dehghan, Sebastian Stein, Vahid Yazdanpanah, Stephanie Gauthier, Masood Nazari | University of Southampton |
+| 16:00 | 16:15 | Adaptive Data Dropout: Towards Self-Regulated Learning in Deep Neural Networks | Amar Gahir, Varshil Patel, Shreyank N. Gowda | University of Nottingham; MachineTwo |
+| 16:15 | 16:30 | An AI-Based Decision-Support Pipeline for Day-Ahead Photovoltaic Forecasting | Fariba Dehghan, Sebastian Stein, Vahid Yazdanpanah, Stephanie Gauthier, Masood Nazari | University of Southampton |
+
