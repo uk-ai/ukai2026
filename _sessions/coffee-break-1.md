@@ -13,7 +13,6 @@ venue: The Hilton Nottingham, Nottingham, UK
 
 | Board | Poster | Presenter | Institution |
 | :---: | :--- | :--- | :--- |
-| 1 | When More Agents Hurt: Coordination Tax and Held-Out Evaluation in Cyber-Physical AI Systems | Mateo Petel | Stanford University |
 | 2 | Emergent Equilibrium in Coupled Resource-Constrained Systems via Decentralised Multi-Agent Learning | Niloofar Aminikalibar | Aston University |
 | 3 | Instance-Aware Parameter Configuration in Bilevel Late Acceptance Hill Climbing for the Electric Capacitated Vehicle Routing Problem | Yinghao Qin | Queen Mary University of London |
 | 4 | AI-Based Multi-Objective Evolutionary Optimisation for Low-Carbon Multimodal Freight Routing on the China–Europe Corridor | Yueru Shang | Loughborough University |
