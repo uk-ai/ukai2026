@@ -16,5 +16,5 @@ venue: The Hilton Nottingham, Nottingham, UK
 | Start | End | Talk | Authors | Institution |
 | :---: | :---: | :--- | :--- | :--- |
 | 11:30 | 11:45 | Data Quality as a Causal Variable in Smartphone Health Monitoring | Abdulrahman A. Aloyayri | University of Birmingham; Saudi Electronic University |
-| 11:45 | 12:00 | Hybrid Thompson-UCB for Risk-Aware Brain Tumour Classification under Limited Data | Bashayer Fouad Marghalani, J. Michael Herrmann | University of Edinburgh |
+| 11:45 | 12:00 | Hybrid Thompson-UCB for Risk-Aware Classification of Brain Tumours under Limited Data | Bashayer Fouad Marghalani, J. Michael Herrmann | University of Edinburgh |
 | 12:00 | 12:15 | Adaptive Data Dropout: Towards Self-Regulated Learning in Deep Neural Networks | Amar Gahir, Varshil Patel, Shreyank N. Gowda | University of Nottingham; MachineTwo |

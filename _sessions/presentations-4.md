@@ -16,5 +16,5 @@ venue: The Hilton Nottingham, Nottingham, UK
 | Start | End | Talk | Authors | Institution |
 | :---: | :---: | :--- | :--- | :--- |
 | 14:45 | 15:00 | Must Success Make Sense? | Jaia Mridula, David James Edward Elks | University College London |
-| 15:00 | 15:15 | How does AI trustworthiness shape user trust in high-risk interactions? Expert insights across diverse professional and demographic groups. | Puntis Palazzolo, Bernd Carsten Stahl, Helena Webb | University of Nottingham |
+| 15:00 | 15:15 | From AI Trustworthiness to Perceived User Trust in High-Risk AI: An Expert-Derived Conceptual Model | Puntis Palazzolo, Bernd Carsten Stahl, Helena Webb | University of Nottingham |
 | 15:15 | 15:30 | Separating the Art from the Algorithm: Detecting Moral Decoupling in Consumer Discourse About Generative AI | Onuchukwu Joseph Chimezie, Julius Sechang Mboli | University of Hull |
