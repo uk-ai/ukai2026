@@ -1,6 +1,6 @@
 ---
 layout: plenary
-title: "Lunch in the BRIC Restaurant"
+title: "Lunch"
 track: 1
 excerpt: Lunch in the BRIC Restaurant
 start_time: 2026-09-30 12:30

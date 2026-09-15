@@ -2,12 +2,12 @@
 layout: plenary
 title: "Registration"
 track: 1
-excerpt: Registration
+excerpt: Registration and refreshments
 start_time: 2026-09-30 09:30
 end_time: 2026-09-30 10:00
 location:
 venue: The Hilton Nottingham, Nottingham, UK
 ---
 
-Registration.
+Registration and refreshments
 
