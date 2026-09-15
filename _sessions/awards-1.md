@@ -9,5 +9,5 @@ location:
 venue: The Hilton Nottingham, Nottingham, UK
 ---
 
-Presentation of best Poster, Paper and Talk.
+Presentation of best poster and talk.
 
