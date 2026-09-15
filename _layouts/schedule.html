@@ -4,13 +4,14 @@ layout: page
 {% comment %}
 Local override of uk-ai/jekyll-theme _layouts/schedule.html.
 Changes vs theme: (1) session title links to the session page instead of wrapping
-the whole card in <a>, so Markdown links in excerpts work; (2) excerpts use markdownify.
+the whole card in <a>, so Markdown links in excerpts work; (2) excerpts use markdownify; (3) optional page.venue under the date.
 Grid timing / height / track logic is unchanged.
 {% endcomment %}
 
 <h1>{{ page.title }}</h1>
 
 <h2>{{ page.start_time | date: "%b %-d, %Y"}}</h2>
+{% if page.venue %}<p><strong>{{ page.venue }}</strong></p>{% endif %}
 
 {% assign sessions = site.sessions | sort: 'start_time' %}
 
