@@ -2,7 +2,7 @@
 layout: plenary
 title: "UKAI Somabotics Panel: Towards Pluralistic AI"
 track: 1
-excerpt: Panel on pluralistic AI with speakers from the UKRI Turing AI Fellowship Somabotics: Creatively Embodying AI
+excerpt: "Panel on pluralistic AI with speakers from the UKRI Turing AI Fellowship Somabotics: Creatively Embodying AI"
 start_time: 2026-09-29 15:35
 end_time: 2026-09-29 16:35
 location:
