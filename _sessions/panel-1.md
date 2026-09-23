@@ -19,6 +19,6 @@ The panel brings together speakers to offer distinct perspectives on these chall
 
 - **Prof Steve Benford** (Chair) - framing the challenge
 - **Dr Kieran Woodward** - the AI perspective
-- **Dr Richard Ranchurn** - the artist's perspective
+- **Dr Richard Ramchurn** - the artist's perspective
 - **Dr Stacy Hsueh** - the HCI perspective
 

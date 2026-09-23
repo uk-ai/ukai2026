@@ -1,6 +1,6 @@
 ---
 layout: plenary
-title: "Presentation Session 4 - Human-Centred AI: Trust, Understanding & Ethics"
+title: "Presentation Session 4: Human Centred AI, Trust, Understanding and Ethics"
 track: 1
 excerpt: Research talks on trust, understanding, and ethics in human-centred AI
 start_time: 2026-09-30 13:30
@@ -11,7 +11,7 @@ venue: The Hilton Nottingham, Nottingham, UK
 
 {% include talk_session_instructions.html %}
 
-**Chair**: to be confirmed
+**Chair**: Christian Cabrera (University of Cambridge)
 
 | Start | End | Talk | Authors | Institution |
 | :---: | :---: | :--- | :--- | :--- |

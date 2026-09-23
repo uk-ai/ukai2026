@@ -1,6 +1,6 @@
 ---
 layout: plenary
-title: "Presentation Session 2 - Computer Vision & Visual Intelligence"
+title: "Presentation Session 2: Computer Vision and Visual Intelligence"
 track: 1
 excerpt: Research talks on computer vision and visual intelligence
 start_time: 2026-09-29 14:10
@@ -11,7 +11,7 @@ venue: The Hilton Nottingham, Nottingham, UK
 
 {% include talk_session_instructions.html %}
 
-**Chair**: to be confirmed
+**Chair**: Baturalp Büyükateş (University of Birmingham)
 
 | Start | End | Talk | Authors | Institution |
 | :---: | :---: | :--- | :--- | :--- |
