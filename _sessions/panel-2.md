@@ -4,7 +4,7 @@ title: "Panel Discussion 2: Responsible AI, Policy, and Emergent Multi-Agent Beh
 track: 1
 excerpt: Responsible AI and policy - governance, accountability, and emergent behaviour in multi-agent and agentic systems
 start_time: 2026-09-30 14:15
-end_time: 2026-09-30 15:15
+end_time: 2026-09-30 15:25
 location:
 venue: The Hilton Nottingham, Nottingham, UK
 ---
