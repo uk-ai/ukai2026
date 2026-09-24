@@ -11,6 +11,6 @@ venue: The Hilton Nottingham, Nottingham, UK
 
 Prof **Aniko Ekárt** will deliver the afternoon keynote on Tuesday 29 September.
 
-Prof Ekárt is Professor in Computer Science at Aston University, specialising in Artificial Intelligence, and Director of Research Degree Programmes in the College of Engineering and Physical Sciences. She held research positions at the Institute for Computer Science and Control, Hungarian Academy of Sciences, Budapest, and lectured in Artificial Intelligence at Eötvös Loránd University and Dennis Gábor University.
+Prof Ekárt is Professor in Computer Science at Aston University, specialising in Artificial Intelligence, and Director of the Aston Centre for Artificial Intelligence Research and Application (ACAIRA). She is part of the Research England funded £3.4 million AI.RDN+ project, led by Aston University in collaboration with University of Leeds and involving 20 universities. She held research positions at the Institute for Computer Science and Control, Hungarian Academy of Sciences, Budapest, and lectured in Artificial Intelligence at Eötvös Loránd University and Dennis Gábor University.
 
 **Research interests** include computational intelligence, theory and applications of genetic programming and evolutionary computation, evolutionary art, data mining for engineering, design and health, and more recently social learning and trust in AI.
