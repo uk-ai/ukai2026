@@ -5,14 +5,14 @@ title: Index
 
 # Programme
 
-The conference runs **Tuesday 29 – Wednesday 30 September 2026**. The full programme is on the **[Programme page]({{ "program.html" | relative_url }})**, with day-by-day schedules:
+The conference runs **Tuesday 29 - Wednesday 30 September 2026**. The full programme is on the **[Programme page]({{ "program.html" | relative_url }})**, with day-by-day schedules:
 
 * [Day 1 - Tuesday 29 September]({{ 'day-1.html' | relative_url }})
 * [Day 2 - Wednesday 30 September]({{ 'day-2.html' | relative_url }})
 
 Talk and poster details are on each session page (including poster board numbers).
 
-## Evening screening – AI LENS
+## Evening screening - AI LENS
 
 On **Tuesday 29 September, 19:00–21:00**, join the Somabotics Turing AI Fellowship for **[AI LENS: Stories from the Latent Space](https://www.eventbrite.com/e/ai-lens-stories-from-the-latent-space-tickets-1997139756774){:target="_blank"}** at Broadway Cinema, Nottingham. This is a free screening of three short films created with AI LENS, followed by a short panel. Open to conference delegates and the public. **Booking is required** via [Eventbrite](https://www.eventbrite.com/e/ai-lens-stories-from-the-latent-space-tickets-1997139756774).
 
