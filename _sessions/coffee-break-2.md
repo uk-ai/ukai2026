@@ -27,4 +27,4 @@ venue: The Hilton Nottingham, Nottingham, UK
 | 40 | Generative AI Adoption Among UK SMEs: Regulatory Ambiguity, Cognitive Dependency Risk, and the Adaptive Reversibility Framework | Itunu Ijila | University of Hull |
 | 42 | An Empirical Study of Viva Voce Question Generation | Rashmi Chrystaline Perera | University of Buckingham |
 | 43 | Exploring ethical governance of AI use in the UK AEC sector | Kwadwo Oti-Sarpong | University College London |
-| 44 | TBC | Radzim Sendyka | University of Cambridge |
+| 44 | The Ideologies of (a Large Language Model from) the 1930s | Radzim Sendyka | University of Cambridge |

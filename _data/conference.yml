@@ -4,7 +4,7 @@ name: UK AI Conference 2026
 instance: Fourth
 #styling: Conference for
 # set to True if the programme is draft only.
-draft: True
+draft: False
 hide_tentative: False
 venue: The Hilton Nottingham
 venue_url: https://www.hilton.com/en/hotels/emanohn-hilton-nottingham/
@@ -13,19 +13,14 @@ year: 2026
 month: September
 dates: [2026-09-29, 2026-09-30]
 deadlines:
-  # Fill in the key dates as below.
-  - name: Camera-ready deadline
-    text: 4th September 2026
-    type: camera-ready
-    important: True
-  - name: Last booking date
-    text: 4th September 2026
-    type: registration
-    important: True
   - name: Conference dates
-    text: 29th September - 30th September 2026
+    text: 29th–30th September 2026 (Tuesday–Wednesday)
     type: conference
     important: True
+  - name: Evening event — AI LENS screening
+    text: Tuesday 29th September 2026, 19:00–21:00 (Broadway Cinema; booking required)
+    type: conference
+    important: False
 # Give the submission site details here.
 submission:
   # Whether to show open submission (false after deadline; OpenReview URL still used for camera-ready).
