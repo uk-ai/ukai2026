@@ -7,8 +7,8 @@ title: Index
 
 The conference runs **Tuesday 29 – Wednesday 30 September 2026**. The full programme is on the **[Programme page]({{ "program.html" | relative_url }})**, with day-by-day schedules:
 
-* [Day 1 – Tuesday 29 September]({{ 'day-1.html' | relative_url }})
-* [Day 2 – Wednesday 30 September]({{ 'day-2.html' | relative_url }})
+* [Day 1 - Tuesday 29 September]({{ 'day-1.html' | relative_url }})
+* [Day 2 - Wednesday 30 September]({{ 'day-2.html' | relative_url }})
 
 Talk and poster details are on each session page (including poster board numbers).
 
