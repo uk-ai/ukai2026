@@ -15,6 +15,6 @@ Panel on **responsible AI and policy**, with a focus on how **governance, accoun
 
 The panel brings together speakers to offer distinct perspectives on these challenges:
 
-- **Arianna Salili-James** (Chair) - Natural History Museum
+- **Dr Arianna Salili-James** (Chair) - Natural History Museum
 - **Dr Vincent Bryce** (University of Oxford) - responsible innovation and workplace AI
 - **Dr Alfie Cameron** (University of Nottingham) - responsible AI, governance, and accountability
