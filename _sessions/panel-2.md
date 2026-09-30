@@ -19,4 +19,3 @@ The panel brings together speakers to offer distinct perspectives on these chall
 - **Puntis Palazzolo** (University of Nottingham) - trustworthy black-box AI for high-risk applications
 - **Dr Vincent Bryce** (University of Oxford) - responsible innovation and workplace AI
 - **Dr Alfie Cameron** (University of Nottingham) - responsible AI, governance, and accountability
-- 
