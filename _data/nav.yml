@@ -5,8 +5,6 @@ main:
     link: /ukai2026/program.html
   - label: Venue
     link: /ukai2026/venue.html
-  - label: Registration
-    link: /ukai2026/registration.html
   - label: About
     link: /ukai2026/about/
 footer:

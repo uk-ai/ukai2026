@@ -1,0 +1,60 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import
+  "dti-layout",
+  "code-button",
+  url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'),
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+.container {
+  max-width: none;
+}
+
+.photo-carousel {
+  position: relative;
+  margin: 0 0 1.5rem;
+}
+
+.photo-carousel img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 520px;
+  object-fit: contain;
+  background: #f3f3f3;
+}
+
+.photo-carousel-arrow {
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2.6rem;
+  height: 2.6rem;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.45);
+  color: #fff;
+  font-size: 2rem;
+  line-height: 2.2rem;
+  text-align: center;
+  cursor: pointer;
+}
+
+.photo-carousel-arrow:hover,
+.photo-carousel-arrow:focus {
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+}
+
+.photo-carousel-prev {
+  left: 0.75rem;
+}
+
+.photo-carousel-next {
+  right: 0.75rem;
+}
