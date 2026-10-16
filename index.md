@@ -19,6 +19,10 @@ title: Index
 </script>
 <script src="{{ 'assets/js/photo-carousel.js' | relative_url }}"></script>
 
+# Proceedings
+
+The papers from this conference are published in the Proceedings of Machine Learning Research, [volume 348](https://proceedings.mlr.press/v348/){:target="_blank"}.
+
 # Programme
 
 The conference ran **Tuesday 29 - Wednesday 30 September 2026**. The full programme is on the **[Programme page]({{ "program.html" | relative_url }})**, with day-by-day schedules:
