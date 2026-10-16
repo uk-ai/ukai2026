@@ -3,10 +3,10 @@ layout: home
 title: Index
 ---
 
-<div class="photo-carousel" id="photo-carousel">
-  <img id="photo-carousel-image" src="{{ 'assets/images/lanyards.jpg' | relative_url }}" alt="UK AI conference badges and lanyards">
-  <button type="button" class="photo-carousel-arrow photo-carousel-prev" id="photo-carousel-prev" aria-label="Previous photo">&#8249;</button>
-  <button type="button" class="photo-carousel-arrow photo-carousel-next" id="photo-carousel-next" aria-label="Next photo">&#8250;</button>
+<div class="photo-carousel" id="photo-carousel" style="position:relative;">
+  <img id="photo-carousel-image" src="{{ 'assets/images/lanyards.jpg' | relative_url }}" alt="UK AI conference badges and lanyards" style="display:block;width:100%;height:auto;">
+  <button type="button" class="photo-carousel-arrow photo-carousel-prev" id="photo-carousel-prev" aria-label="Previous photo" style="position:absolute;z-index:2;top:50%;left:0.75rem;transform:translateY(-50%);width:2.6rem;height:2.6rem;margin:0;padding:0;border:0;border-radius:50%;background:rgba(0,0,0,0.45);color:#fff;font-size:2rem;line-height:2.2rem;text-align:center;cursor:pointer;">&#8249;</button>
+  <button type="button" class="photo-carousel-arrow photo-carousel-next" id="photo-carousel-next" aria-label="Next photo" style="position:absolute;z-index:2;top:50%;right:0.75rem;transform:translateY(-50%);width:2.6rem;height:2.6rem;margin:0;padding:0;border:0;border-radius:50%;background:rgba(0,0,0,0.45);color:#fff;font-size:2rem;line-height:2.2rem;text-align:center;cursor:pointer;">&#8250;</button>
 </div>
 <script type="application/json" id="photo-carousel-data">
 [
