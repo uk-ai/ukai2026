@@ -19,6 +19,8 @@ title: Index
 </script>
 <script src="{{ 'assets/js/photo-carousel.js' | relative_url }}"></script>
 
+<p class="photo-credit">Photography credit: Ryan Warburton</p>
+
 # Proceedings
 
 The papers from this conference are published in the Proceedings of Machine Learning Research, [volume 348](https://proceedings.mlr.press/v348/){:target="_blank"}.
